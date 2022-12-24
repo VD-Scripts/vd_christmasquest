@@ -14,7 +14,7 @@ local Config = {
 # De ce aveti nevoie pentru ca script-ul sa ruleze ca in videoclip-ul de prezentare?
 > **Aveti nevoie de:** <br />
 ```
-- InteractSound<br />
+- InteractSound
 - vd_info
 ```
 #Videoclip de prezentare
