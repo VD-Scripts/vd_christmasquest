@@ -1,7 +1,7 @@
 # vd_christmasquest
 > **Server-ul nostru de discord: https://discord.gg/AfqUAJAawC**
 # Cum se configureaza?
-> **Script-ul se configureaza foarte usor avand un sistem de config la indemana pentru toata lumea.**<br />
+> **Script-ul se configureaza foarte usor avand un sistem de config la indemana pentru toata lumea.**<br /> >
 local Config = {<br />
     - InteractSound = true, -- Default este pe true dar daca nu aveti sistemul de InteractSound atunci puneti-l pe false<br />
     - SoundVolume = 0.8, -- Volumul muzici in timp ce colinzi<br />
