@@ -19,3 +19,6 @@ local Config = {
 - vd_progressbar
 ```
 # Videoclip de prezentare
+https://youtu.be/MnVt3jztOCU
+# Cum folosesc colindele?
+Colindele le plasati in folderul cu muzici din script-ul InteractSound
