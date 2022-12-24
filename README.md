@@ -1,7 +1,7 @@
 # vd_christmasquest
-Server-ul nostru de discord: https://discord.gg/AfqUAJAawC
+> **Server-ul nostru de discord: https://discord.gg/AfqUAJAawC**
 # Cum se configureaza?
-Script-ul se configureaza foarte usor avand un sistem de config la indemana pentru toata lumea.<br />
+> **Script-ul se configureaza foarte usor avand un sistem de config la indemana pentru toata lumea.**<br />
 local Config = {<br />
     - InteractSound = true, -- Default este pe true dar daca nu aveti sistemul de InteractSound atunci puneti-l pe false<br />
     - SoundVolume = 0.8, -- Volumul muzici in timp ce colinzi<br />
@@ -10,7 +10,7 @@ local Config = {<br />
     - Marker = 0 -- Aici puneti ID-ul marker-ului pe care doriti sa il afisezi in momentul in care sunteti la o casa<br />
 }<br />
 # De ce aveti nevoie pentru ca script-ul sa ruleze ca in videoclip-ul de prezentare?
-**Aveti nevoie de:** <br />
+> **Aveti nevoie de:** <br />
 - InteractSound<br />
 - vd_info
 #Videoclip de prezentare
