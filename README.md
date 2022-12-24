@@ -16,5 +16,6 @@ local Config = {
 ```
 - InteractSound
 - vd_info
+- vd_progressbar
 ```
 # Videoclip de prezentare
