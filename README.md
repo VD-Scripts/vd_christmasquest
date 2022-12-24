@@ -9,3 +9,8 @@ local Config = {<br />
     Ture = 5, -- Aici puneti de cate ori vreti sa faceti quest-ul<br />
     Marker = 0 -- Aici puneti ID-ul marker-ului pe care doriti sa il afisezi in momentul in care sunteti la o casa<br />
 }<br />
+# De ce aveti nevoie pentru ca script-ul sa ruleze ca in videoclip-ul de prezentare?
+**Aveti nevoie de:** <br />
+- InteractSound<br />
+- vd_info
+#Videoclip de prezentare
