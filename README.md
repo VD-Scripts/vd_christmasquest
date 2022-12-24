@@ -17,4 +17,4 @@ local Config = {
 - InteractSound
 - vd_info
 ```
-#Videoclip de prezentare
+# Videoclip de prezentare
